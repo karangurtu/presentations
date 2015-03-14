@@ -22,17 +22,21 @@ etc.
 
 ## Topics
 
-`<topic>/<presentation-name>`
+These are symbolic links to the presentations in the chronological section but organized by topics
+
+`topics/<topic>/<presentation-name>`
 
 e.g.
 
 ```
-bosh/micro-cli
-bosh/external-cpis
+topics/bosh/micro-cli
+topics/bosh/external-cpis
 ```
 
 etc.
 
 ## Drafts
 
-Always points to the latest presentations that are in draft mode 
+`drafts/bosh-external-cpis`
+
+Symlinks that point to the latest presentations that are in draft mode. Always point to the presentations in chronological sections. The list in the `drafts` directory is subject to change and should not be used for final release links.
