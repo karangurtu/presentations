@@ -4,7 +4,7 @@
 
 CloudFoundry Services make up the most extensible part of any CF installation. The architecture is flexible and uses a broker model allows for various types of services to be integrated and used in any CF installations.
 
-While very powerful and flexible, the current CF Services architecture had some major pending issues that prevented CF installations to be even more useful and capable. In particular, using the current architecture, it was difficult to integrate analytics types of services, as well as allowing service instances to be used outside of CF applications.
+While very powerful and flexible, the current CF Services architecture had some known limitations that prevented CF installations to be even more useful and capable. For example, using the current architecture, it was difficult to integrate analytics types of services, provisioning VMs, orchestrating clusters, as well as allowing service instances to be used outside of CF applications.
 
 Recent enhancements to the CF services architecture attempt to address the current limitations by adding three key new features. First, services can now be provisioned and de-provisioned in an async fashion which allows service brokers to take whatever amount of time needed to create and delete their managed service instances.
 
