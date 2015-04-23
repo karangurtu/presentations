@@ -6,7 +6,7 @@ Repository for all public presentations, including any associated files from the
   1. Beijing Meetup 03/14/2015: [SoftLayer eCPI: intro to uBOSH and external CPIs](https://github.com/maximilien/presentations/blob/master/2015/beijing-cf-meetup/releases/Beijing_CF_Meetup_2015-SoftLayer_eCPI-v0.3.14.pdf)
   2. IBM CDL - Bluemix 03/26/2015: [CF DevOps Best Practices](https://github.com/maximilien/presentations/blob/master/2015/cf-devops-best-practices/releases/CF_DevOps_Best_Practices-v0.1.1.pdf)
   3. Shanghai Meetup 03/28/2015: [SoftLayer eCPI: intro to uBOSH and external CPIs](https://github.com/maximilien/presentations/blob/master/2015/shanghai-cf-meetup/releases/Shanghai_CF_Meetup_2015-SoftLayer_eCPI-v0.4.0.pdf)
-  4. GoSF Meetup 04/22/2015: [Going global with i18n4go](https://github.com/maximilien/presentations/blob/master/2015/i18n4go-gosf-meetup/releases/i18n4go-v0.4.0.pdf)
+  4. GoSF Meetup 04/22/2015: [Going global with i18n4go](https://github.com/maximilien/presentations/blob/master/2015/i18n4go-gosf-meetup/releases/i18n4go-v0.4.1.pdf)
 * **Topics**
   1. BOSH
     * Beijing Meetup: [SoftLayer eCPI: intro to uBOSH and external CPIs](https://github.com/maximilien/presentations/blob/master/2015/beijing-cf-meetup/releases/Beijing_CF_Meetup_2015-SoftLayer_eCPI-v0.3.14.pdf)
@@ -14,7 +14,7 @@ Repository for all public presentations, including any associated files from the
   2. DevOps
     * IBM CDL - Bluemix 03/26/2015: [CF DevOps Best Practices](https://github.com/maximilien/presentations/blob/master/2015/cf-devops-best-practices/releases/CF_DevOps_Best_Practices-v0.1.1.pdf)
   3. Golang
-    * GoSF Meetup 04/22/2015: [Going global with i18n4go](https://github.com/maximilien/presentations/blob/master/2015/i18n4go-gosf-meetup/releases/i18n4go-v0.4.0.pdf)
+    * GoSF Meetup 04/22/2015: [Going global with i18n4go](https://github.com/maximilien/presentations/blob/master/2015/i18n4go-gosf-meetup/releases/i18n4go-v0.4.1.pdf)
 
 # Organization
 
