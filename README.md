@@ -21,7 +21,7 @@ Repository for all public presentations, including any associated files from the
     * GoSF Meetup 04/22/2015: [Going global with i18n4go](https://github.com/maximilien/presentations/blob/master/2015/i18n4go-gosf-meetup/releases/i18n4go-v0.4.1.pdf)
   4. CF Services
     * CF Summit 05/11/2015: [what's new with CF services?](https://github.com/maximilien/presentations/blob/master/2015/cf-summit-services/releases/what_s_new_with_CF_Services%3F-v1.0.0.pdf)
-  5. Cf-Swagger
+  5. CF-Swagger
     * IBM, Pivotal, cf-dev 09/17/2015: [CF-Swagger: giving CF APIs their swagger back](https://github.com/maximilien/presentations/blob/master/2015/cf-swagger/releases/cf-swagger-v0.7.0.pdf)
 
 # Organization
