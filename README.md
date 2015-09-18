@@ -9,7 +9,7 @@ Repository for all public presentations, including any associated files from the
   4. GoSF Meetup 04/22/2015: [Going global with i18n4go](https://github.com/maximilien/presentations/blob/master/2015/i18n4go-gosf-meetup/releases/i18n4go-v0.4.1.pdf)
   5. CF Summit 05/11/2015: [what's new with CF services?](https://github.com/maximilien/presentations/blob/master/2015/cf-summit-services/releases/what_s_new_with_CF_Services%3F-v1.0.0.pdf)
   6. CF Summit 05/12/2015: [bosh-init](https://github.com/maximilien/presentations/blob/master/2015/cf-summit-bosh/releases/bosh-init-v1.0.0.pdf)
-  7. IBM, Pivotal, cf-dev 09/17/2015:   [cf-swagger](https://github.com/maximilien/presentations/blob/master/2015/cf-swagger/releases/cf-swagger-v0.7.0.pdf)
+  7. IBM, Pivotal, cf-dev 09/17/2015: [CF-Swagger: giving CF APIs their swagger back](https://github.com/maximilien/presentations/blob/master/2015/cf-swagger/releases/cf-swagger-v0.7.0.pdf)
 * **Topics**
   1. BOSH
     * Beijing Meetup 03/14/2015: [SoftLayer eCPI: intro to uBOSH and external CPIs](https://github.com/maximilien/presentations/blob/master/2015/beijing-cf-meetup/releases/Beijing_CF_Meetup_2015-SoftLayer_eCPI-v0.3.14.pdf)
@@ -22,7 +22,7 @@ Repository for all public presentations, including any associated files from the
   4. CF Services
     * CF Summit 05/11/2015: [what's new with CF services?](https://github.com/maximilien/presentations/blob/master/2015/cf-summit-services/releases/what_s_new_with_CF_Services%3F-v1.0.0.pdf)
   5. Cf-Swagger
-    * IBM, Pivotal, cf-dev 09/17/2015:   [cf-swagger](https://github.com/maximilien/presentations/blob/master/2015/cf-swagger/releases/cf-swagger-v0.7.0.pdf)
+    * IBM, Pivotal, cf-dev 09/17/2015: [CF-Swagger: giving CF APIs their swagger back](https://github.com/maximilien/presentations/blob/master/2015/cf-swagger/releases/cf-swagger-v0.7.0.pdf)
 
 # Organization
 
